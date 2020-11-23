@@ -14,8 +14,7 @@ Misophonia is a condition that causes an intense, negative, reaction to certain 
 ### Non-profits
 
 - [Misophonia Association](https://misophonia-association.org/)
-
-### Products
+- [soQuiet](http://soquiet.org/)
 
 ### Podcasts
 
