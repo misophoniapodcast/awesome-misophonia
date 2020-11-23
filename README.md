@@ -5,9 +5,9 @@ Misophonia is a condition that causes an intense, negative, reaction to certain 
 
 ## Contents
 
-- [Packages](#packages)
-	- [Mad science](#mad-science)
-	- [Command-line apps](#command-line-apps)
+- [Research Groups](#research-groups)
+- [Non-profits](#non-profits)
+- [Products](#products)
 
 ### Research Groups
 
@@ -19,7 +19,7 @@ Misophonia is a condition that causes an intense, negative, reaction to certain 
 
 ### Podcasts
 
-- [The Misophonia Podcast](https://misophoniapodcast.com
+- [The Misophonia Podcast](https://misophoniapodcast.com)
 
 ### Online Support Groups
 
