@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# awesome-misophonia [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-You can use the [editor on GitHub](https://github.com/realadeel/awesome-misophonia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Misophonia is a condition that causes an intense, negative reaction to certain sounds. You are not alone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### In The News
 
-### Markdown
+- [Why office noise bothers some people more than others](https://www.bbc.com/worklife/article/20191115-office-noise-acceptable-levels-personality-type) BBC 11/2019
+- [Misophonia: When Life's Noises Drive You Mad](https://npr.org/sections/health-shots/2019/03/18/702784044/misophonia-when-lifes-noises-drive-you-mad) NPR 3/2019
+- [The Crunch of an Apple Makes Me Want to Run Away](https://www.bbc.com/news/stories-46193709) NPR 11/2018
+- [Understanding Misophonia](https://www.psychologytoday.com/us/blog/sleepless-in-america/201809/understanding-misophonia) Psychology Today 9/2018
+- [What's the Deal With Misophonia?](https://www.psychologytoday.com/us/blog/i-hear-you/202002/whats-the-deal-misophonia) Psychology Today 2/2020
+- [The Chewing Sound and the Fury](https://newrepublic.com/article/113667/misophonia-treatment-what-if-chewing-sounds-ruined-your-life) New Republic 7/2013
+- [When a Chomp or a Slurp Is a Trigger for Outrage](https://www.nytimes.com/2011/09/06/health/06annoy.html) New York Times 9/2011
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Organizations
 
-# Header 1
-## Header 2
-### Header 3
+- [Misophonia Association](https://misophonia-association.org/)
+- [soQuiet](http://soquiet.org/)
 
-- Bulleted
-- List
+### Podcasts
 
-1. Numbered
-2. List
+- [The Misophonia Podcast](https://misophoniapodcast.com)
 
-**Bold** and _Italic_ and `Code` text
+### Documentaries
 
-[Link](url) and ![Image](src)
-```
+- [Quiet Please...](http://www.quietpleasefilm.com)
+- [Breaking the Sound Barrier](https://www.youtube.com/watch?v=l401uIyrE_A)
+- [Hatred of Sound](https://www.misophoniainternational.com/a-misophonia-documentary/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Online Support Groups
 
-### Jekyll Themes
+- Reddit
+  - [r/misophonia](https://www.reddit.com/r/misophonia)
+  - [r/misophoniasupport](https://www.reddit.com/r/misophoniasupport)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/realadeel/awesome-misophonia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Facebook
+  - [Misophonia Support Group](https://www.facebook.com/groups/misophoniasupport)
+  - [Misophonia: Coping and Solutions](https://www.facebook.com/groups/601611293217471)
+  - [Misophonia Treatment and Management](https://www.facebook.com/groups/misophoniatreatment)
 
-### Support or Contact
+### Accomodations
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Job Accomodation Network](https://askjan.org/articles/misophonia.cfm?csSearch=2896620_1)
+
+### Explainers
+
+- [Misophonia Cards](https://www.soquiet.org/free-misophonia-cards/)
