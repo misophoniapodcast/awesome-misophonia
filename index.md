@@ -1,6 +1,4 @@
-# awesome-misophonia [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-Misophonia is a condition that causes an intense, negative reaction to certain sounds. You are not alone.
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ### In The News
 
