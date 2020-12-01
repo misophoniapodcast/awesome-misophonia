@@ -61,3 +61,13 @@ Misophonia is a condition that causes an intense, negative reaction to certain s
 ### Explainers
 
 - [Misophonia Cards](https://www.soquiet.org/free-misophonia-cards/)
+
+### Creative
+
+- Writing
+  - [Golden](https://www.amazon.com/Golden-Phone-Tales-Rebecca-Campbell-ebook/dp/B07STNV38W)
+  - [The Sound of Silence](https://hearourmisophonia.medium.com/the-sound-of-silence-5915e2c0598e)
+- TV/Film
+  - [Books of Blood](https://www.imdb.com/title/tt11242218/)
+- Art
+  - [Misophonia Musings](https://clairepupo.com/collections/meta-musings)
