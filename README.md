@@ -2,6 +2,21 @@
 
 Misophonia is a condition that causes an intense, negative reaction to certain sounds. You are not alone.
 
+### About Misophonia
+- [John Hopkins Medicine: Misophonia](https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_Psychiatry_Guide/787169/all/Misophonia)
+- [Harvard Health Publishing](https://www.health.harvard.edu/blog/misophonia-sounds-really-make-crazy-2017042111534)
+- [WebMD](https://www.webmd.com/mental-health/what-is-misophonia)
+- [Medical News Today](https://www.medicalnewstoday.com/articles/320682)
+- [Wikipedia](https://en.wikipedia.org/wiki/Misophonia)
+- [Neurology Live](https://www.neurologylive.com/view/misophonia-triggers-management)
+- [International OCD Foundation](https://iocdf.org/expert-opinions/misophonia/)
+- [Quartz](https://qz.com/1256773/what-is-misophonia-when-sounds-cause-you-discomfort)
+- [Science Alert](https://www.sciencealert.com/can-t-stand-the-sound-of-people-chewing-blame-your-brain-science-misophonia)
+- [STAR Institute](https://www.spdstar.org/basic/misophonia)
+- [Time](https://time.com/5135231/misophonia-chewing-sounds/)
+- [PLOS](https://theplosblog.plos.org/2017/06/the-brain-basis-of-hatred-of-sound-misophonia/)
+- [CNN](https://www.cnn.com/2017/02/06/health/misophonia-sounds-brain-study/index.html)
+
 ### In The News
 
 - [Why office noise bothers some people more than others](https://www.bbc.com/worklife/article/20191115-office-noise-acceptable-levels-personality-type) BBC 11/2019
