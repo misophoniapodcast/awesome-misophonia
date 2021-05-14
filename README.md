@@ -2,7 +2,7 @@
 
 Misophonia is a condition that causes an intense, negative reaction to certain sounds. You are not alone.
 
-### About Misophonia
+## About Misophonia
 - [John Hopkins Medicine: Misophonia](https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_Psychiatry_Guide/787169/all/Misophonia)
 - [Harvard Health Publishing](https://www.health.harvard.edu/blog/misophonia-sounds-really-make-crazy-2017042111534)
 - [WebMD](https://www.webmd.com/mental-health/what-is-misophonia)
@@ -13,78 +13,76 @@ Misophonia is a condition that causes an intense, negative reaction to certain s
 - [Quartz](https://qz.com/1256773/what-is-misophonia-when-sounds-cause-you-discomfort)
 - [Science Alert](https://www.sciencealert.com/can-t-stand-the-sound-of-people-chewing-blame-your-brain-science-misophonia)
 - [STAR Institute](https://www.spdstar.org/basic/misophonia)
-- [Time](https://time.com/5135231/misophonia-chewing-sounds/)
 - [PLOS](https://theplosblog.plos.org/2017/06/the-brain-basis-of-hatred-of-sound-misophonia/)
-- [CNN](https://www.cnn.com/2017/02/06/health/misophonia-sounds-brain-study/index.html)
 
-### In The News
+## In The News
 
+- [What's the Deal With Misophonia?](https://www.psychologytoday.com/us/blog/i-hear-you/202002/whats-the-deal-misophonia) Psychology Today 02/2020
 - [Why office noise bothers some people more than others](https://www.bbc.com/worklife/article/20191115-office-noise-acceptable-levels-personality-type) BBC 11/2019
-- [Misophonia: When Life's Noises Drive You Mad](https://npr.org/sections/health-shots/2019/03/18/702784044/misophonia-when-lifes-noises-drive-you-mad) NPR 3/2019
+- [Misophonia: When Life's Noises Drive You Mad](https://npr.org/sections/health-shots/2019/03/18/702784044/misophonia-when-lifes-noises-drive-you-mad) NPR 03/2019
 - [The Crunch of an Apple Makes Me Want to Run Away](https://www.bbc.com/news/stories-46193709) NPR 11/2018
-- [Understanding Misophonia](https://www.psychologytoday.com/us/blog/sleepless-in-america/201809/understanding-misophonia) Psychology Today 9/2018
-- [What's the Deal With Misophonia?](https://www.psychologytoday.com/us/blog/i-hear-you/202002/whats-the-deal-misophonia) Psychology Today 2/2020
-- [The Chewing Sound and the Fury](https://newrepublic.com/article/113667/misophonia-treatment-what-if-chewing-sounds-ruined-your-life) New Republic 7/2013
-- [When a Chomp or a Slurp Is a Trigger for Outrage](https://www.nytimes.com/2011/09/06/health/06annoy.html) New York Times 9/2011
+- [Understanding Misophonia](https://www.psychologytoday.com/us/blog/sleepless-in-america/201809/understanding-misophonia) Psychology Today 09/2018
+- [Bothered By Noisy Eating? It May Affect Your Ability to Learn](https://time.com/5135231/misophonia-chewing-sounds/) 02/2018
+- [Misophonia: When chewing, other everyday sounds enrage you](https://www.cnn.com/2017/02/06/health/misophonia-sounds-brain-study/index.html) 02/2017
+- [The Chewing Sound and the Fury](https://newrepublic.com/article/113667/misophonia-treatment-what-if-chewing-sounds-ruined-your-life) New Republic 07/2013
+- [When a Chomp or a Slurp Is a Trigger for Outrage](https://www.nytimes.com/2011/09/06/health/06annoy.html) New York Times 09/2011
 
 
-### Organizations
+## Organizations
 
 - [Misophonia Association](https://misophonia-association.org/)
 - [soQuiet](http://soquiet.org/)
 
-### Podcasts
+## Podcasts
 
 - [The Misophonia Podcast](https://misophoniapodcast.com)
-- On other podcasts
-  - [Radio Health Journal](https://radiohealthjournal.org/2015/08/30/15-35-segment-1-misophonia/) Aug 30, 2015
-  - [Reasonably Sound](https://reasonablysound.com/2015/04/16/mollys-misophonia/)
+### On other podcasts
+  - [Twenty Thousand Hertz](https://www.20k.org/episodes/misophonia) Jul 9, 2018
+  - [Hypnotherapy and Mental Health by Paula Sweet](https://play.acast.com/s/hypnosishypnotherapylifecoachingmeditationsandselfhelpbypaulasweet/143-dealing-with-misophonia) Jan 4, 2018
   - [Housecall for Health](https://radio.foxnews.com/2017/02/07/misophonia-harmless-sounds-drive-you-nuts/) Feb 7, 2017
   - [Exploring Different Brains](https://www.differentbrains.org/misophonia-dr-jennifer-jo-brout-founder-duke-universitys-sensory-research-program-edb-74/) Mar 22, 2017
-  - [One Part Podcast](http://www.jessicamurnane.com/misophonia-documentary/)
-  - [Twenty Thousand Hertz](https://www.20k.org/episodes/misophonia) 
-  - [WNYC Soundcheck](https://www.wnycstudios.org/podcasts/soundcheck/segments/158013-mystery-misophonia) Sep 12, 2011
   - [CBT Radio - Tom Dozier](https://cbtradio.libsyn.com/misophonia) Feb 1, 2016
-  - [Anxious Toddlers - Helping Kids with Misophonia](https://www.anxioustoddlers.com/kids-with-misophonia/#.X8b0kRNKiko)
-  - [Anxious Toddlers - When Sounds Cause a Child’s Brain to Rage](https://www.anxioustoddlers.com/psp-026-misophonia-triggers/#.X8b6oxNKiko)
-  - [Hypnotherapy and Mental Health by Paula Sweet](https://play.acast.com/s/hypnosishypnotherapylifecoachingmeditationsandselfhelpbypaulasweet/143-dealing-with-misophonia) Jan 4, 2018
+  - [Radio Health Journal](https://radiohealthjournal.org/2015/08/30/15-35-segment-1-misophonia/) Aug 30, 2015
+  - [Reasonably Sound](https://reasonablysound.com/2015/04/16/mollys-misophonia/) Apr 16, 2015
+  - [WNYC Soundcheck](https://www.wnycstudios.org/podcasts/soundcheck/segments/158013-mystery-misophonia) Sep 12, 2011
 
-### Documentaries
+## Documentaries
 
 - [Quiet Please...](http://www.quietpleasefilm.com)
 - [Breaking the Sound Barrier](https://www.youtube.com/watch?v=l401uIyrE_A)
-- [Hatred of Sound](https://www.misophoniainternational.com/a-misophonia-documentary/)
 
-### Online Support Groups
+## Online Support Groups
 
-- Reddit
+### Facebook
+  - [Misophonia Support Group](https://www.facebook.com/groups/misophoniasupport)
+  - [Misophonia: Coping and Solutions](https://www.facebook.com/groups/601611293217471)
+
+### Reddit
   - [r/misophonia](https://www.reddit.com/r/misophonia)
   - [r/misophoniasupport](https://www.reddit.com/r/misophoniasupport)
 
-- Facebook
-  - [Misophonia Support Group](https://www.facebook.com/groups/misophoniasupport)
-  - [Misophonia: Coping and Solutions](https://www.facebook.com/groups/601611293217471)
-  - [Misophonia Treatment and Management](https://www.facebook.com/groups/misophoniatreatment)
-
-### Accomodations
+### Other platforms
+  - [MisoMatch](https://misomatch.com) is a platform for finding other misophones around the world, creating online groups, and finding providers and product reviews. 
+## Accomodations
 
 - [Job Accomodation Network](https://askjan.org/articles/misophonia.cfm?csSearch=2896620_1)
 
-### Explainers
+## Explainers
 
 - [Misophonia Cards](https://www.soquiet.org/free-misophonia-cards/)
 
-### Creative
+## Creative
 
-- Writing
+### Writing
   - [Golden](https://www.amazon.com/Golden-Phone-Tales-Rebecca-Campbell-ebook/dp/B07STNV38W)
   - [The Sound of Silence](https://hearourmisophonia.medium.com/the-sound-of-silence-5915e2c0598e)
-- TV/Film
+### TV/Film
   - [Books of Blood](https://www.imdb.com/title/tt11242218/)
-- Art
+### Art
   - [Misophonia Musings](https://clairepupo.com/collections/meta-musings)
 
-### Research
+## Research
+- [A Consensus Definition of Misophonia: Using a Delphi Process to Reach Expert Agreement](https://www.medrxiv.org/content/10.1101/2021.04.05.21254951v1) 04/2021
 - [How everyday sounds can trigger strong emotions: ASMR, misophonia and the feeling of wellbeing](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.202000099) 11/2020
 - [Context Influences How Individuals with Misophonia Respond to Sounds](https://www.biorxiv.org/content/10.1101/2020.09.12.292391v1.full) 9/2020
 - [The Mediating Role of Emotion Regulation Within the Relationship Between Neuroticism and Misophonia: A Preliminary Investigation](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00847/full) 8/2020
