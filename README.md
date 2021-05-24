@@ -82,6 +82,7 @@ Misophonia is a condition that causes an intense, negative reaction to certain s
   - [Misophonia Musings](https://clairepupo.com/collections/meta-musings)
 
 ## Research
+- [The Motor Basis For Misophonia](https://www.jneurosci.org/content/early/2021/05/20/JNEUROSCI.0261-21.2021) 05/2021
 - [A Consensus Definition of Misophonia: Using a Delphi Process to Reach Expert Agreement](https://www.medrxiv.org/content/10.1101/2021.04.05.21254951v1) 04/2021
 - [How everyday sounds can trigger strong emotions: ASMR, misophonia and the feeling of wellbeing](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.202000099) 11/2020
 - [Context Influences How Individuals with Misophonia Respond to Sounds](https://www.biorxiv.org/content/10.1101/2020.09.12.292391v1.full) 9/2020
